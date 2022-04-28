@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Little Snake
 
 on:
   schedule: # execute every 12 hours
