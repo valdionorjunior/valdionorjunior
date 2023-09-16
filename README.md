@@ -1,10 +1,17 @@
-### Hi there! 👋
 
-- 👦🏽 I'm **Valdionor Jr. Rodrigues**, and i'm a Software Engineer focused in Back End. (⌐■_■)
+### Ola! (PT/BR) 👋
+
+- 👦🏽 Eu sou **Valdionor Jr. Rodrigues**, e eu sou um Desenvolvedor de Software focado em Back End. (⌐■_■)
+
+- 🏡 Eu sou do Brasil. Atualmente estou morando em Osasco, São Paulo.
+---
+### Hi there!  (EN/US) 👋
+
+- 👦🏽 I'm **Valdionor Jr. Rodrigues**, and i'm a Software Developer focused in Back End. (⌐■_■)
 
 - 🏡 I'm from Brazil. I'm currently living in Osasco, São Paulo.
 
-
+___
 <div align="center">
   <a href="https://github.com/valdionorjunior">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valdionorjunior&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> 
