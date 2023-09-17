@@ -26,10 +26,13 @@ ___
 ### (EN/US) Languages / (PT/BR) Linguagens 
 <div align="center">
 
-  ![Percent-Language](https://github-readme-stats.vercel.app/api/top-langs/?username=valdionorjunior&layout=compact&langs_count=7&theme=chartreuse-dark&hide_title=true)
+![Percent-Language](https://github-readme-stats.vercel.app/api/top-langs/?username=valdionorjunior&layout=compact&langs_count=7&theme=chartreuse-dark&hide_title=true)
 </div>
 
+<div align="center">
+
 ![Snake animation](https://github.com/valdionorjunior/valdionorjunior/blob/output/github-contribution-grid-snake.svg)
+</div>
  
 ##
 
